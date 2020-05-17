@@ -1,0 +1,6 @@
+[submodule "relax-flights-back"]
+	path = relax-flights-back
+	url = https://github.com/Fabian0007/relax-flights-back
+[submodule "relax-flights-front"]
+	path = relax-flights-front
+	url = https://github.com/Fabian0007/relax-flights-front
